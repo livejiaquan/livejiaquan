@@ -42,9 +42,11 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livejiaquan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)_
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=livejiaquan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livejiaquan&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livejiaquan&layout=compact&theme=tokyonight&hide_border=true)
+<br/>
+
 
 </div>
 
@@ -60,5 +62,5 @@
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的用戶名&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=livejiaquan&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" />
 </div>

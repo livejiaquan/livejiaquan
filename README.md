@@ -42,9 +42,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用戶名&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livejiaquan&show_icons=true&theme=tokyonight&hide_border=true&count_private=trueh
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=你的用戶名&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livejiaquan&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 

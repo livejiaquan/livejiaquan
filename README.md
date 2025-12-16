@@ -42,7 +42,7 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livejiaquan&show_icons=true&theme=tokyonight&hide_border=true&count_private=trueh
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=livejiaquan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)_
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=livejiaquan&layout=compact&theme=tokyonight&hide_border=true)
 

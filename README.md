@@ -38,17 +38,16 @@
 
 ---
 
-### 📊 GitHub Stats
+### ⭐ Featured Projects
 
-<div align="center">
-
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=livejiaquan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide_rank=true"/> -->
-<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=livejiaquan&layout=compact&theme=tokyonight&hide_border=true&hide=jupyter%20notebook"/> -->
-
-<br/>
-
-
-</div>
+| Project | What it is |
+|---|---|
+| [moondream2-factory-vision](https://github.com/livejiaquan/moondream2-factory-vision) | Feasibility experiments using a compact VLM (Moondream2) for industrial safety scenarios, fully local inference |
+| [2025EAI_Project](https://github.com/livejiaquan/2025EAI_Project) | CIFAR-10 model compression — 90% of channels pruned with 90.56% accuracy retained |
+| [Claro](https://github.com/livejiaquan/Claro) | Privacy-first macOS dictation: mlx-whisper + local LLM polishing for mixed zh/en writing |
+| [mlx-whisper-studio](https://github.com/livejiaquan/mlx-whisper-studio) | Desktop GUI for on-device audio/video transcription on Apple Silicon |
+| [Boxing-Action-Recognition](https://github.com/livejiaquan/Boxing-Action-Recognition) | Real-time boxing action recognition with YOLO11-pose, 25–30 FPS |
+| [taiwan-weather-risk-dashboard](https://github.com/livejiaquan/taiwan-weather-risk-dashboard) | Live county-level weather risk dashboard on official CWA open data ([live](https://livejiaquan.github.io/taiwan-weather-risk-dashboard/)) |
 
 ---
 
@@ -56,6 +55,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jiaquan-lim/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:livejiaquan010313@gmail.com)
+<!-- 網站部署後取消註解：
+[![Website](https://img.shields.io/badge/-kyasen.com-1a1815?style=flat-square&logo=safari&logoColor=white)](https://www.kyasen.com)
+-->
 
 💼 Open to opportunities in AI/ML Engineering | Expected Graduation: June 2026
 

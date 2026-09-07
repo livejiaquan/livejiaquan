@@ -48,6 +48,8 @@
 | [mlx-whisper-studio](https://github.com/livejiaquan/mlx-whisper-studio) | Desktop GUI for on-device audio/video transcription on Apple Silicon |
 | [Boxing-Action-Recognition](https://github.com/livejiaquan/Boxing-Action-Recognition) | Real-time boxing action recognition with YOLO11-pose, 25–30 FPS |
 | [taiwan-weather-risk-dashboard](https://github.com/livejiaquan/taiwan-weather-risk-dashboard) | Live county-level weather risk dashboard on official CWA open data ([live](https://livejiaquan.github.io/taiwan-weather-risk-dashboard/)) |
+| [taiwan-power-dashboard](https://github.com/livejiaquan/taiwan-power-dashboard) | Public-data dashboard for Taiwan's power supply and generation mix ([live](https://livejiaquan.github.io/taiwan-power-dashboard/)) |
+| [worldcup-soren-predictor](https://github.com/livejiaquan/worldcup-soren-predictor) | Archived World Cup 2026 prediction agent with transparent forecasts, results, and postmortems ([live](https://worldcup.kyasen.com/)) |
 
 ---
 
@@ -59,7 +61,7 @@
 [![Website](https://img.shields.io/badge/-kyasen.com-1a1815?style=flat-square&logo=safari&logoColor=white)](https://www.kyasen.com)
 -->
 
-💼 Open to opportunities in AI/ML Engineering | Expected Graduation: June 2026
+💼 Open to opportunities in AI/ML Engineering
 
 ---
 

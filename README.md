@@ -1,10 +1,10 @@
-# 👋 Hi, I'm JIAQUAN
+# 👋 Hi, I'm Jia Quan
 
-**AI/ML Engineer | Graduate Researcher | Federated Learning & LLM**
+**AI/ML Engineer | Graduate Researcher | Federated Learning & Computer Vision**
 
 🎓 M.S. in Electrical Engineering @ NCKU | 🇲🇾 → 🇹🇼  
 🔬 AI Research Intern @ USI Management Consulting  
-💡 Building industrial AI solutions & exploring distributed ML systems
+💡 Building edge & on-device AI tools, and studying federated detection on medical images
 
 ---
 
@@ -31,9 +31,9 @@
 
 ### 🚀 Currently Working On
 
-- 🔐 **Federated Learning Research** - Privacy-preserving distributed ML systems
-- 🏭 **Industrial AI** - Safety inspection systems using YOLO on edge devices
-- 🤖 **LLM Applications** - Exploring large language model fine-tuning and deployment
+- 🔐 **Federated Learning Research** - Master's thesis: cross-silo federated mitosis detection on MIDOG++ with incomplete annotations
+- 🏭 **Industrial AI** - Forklift near-miss detection from CCTV with YOLO + a local VLM, targeting Hailo-10H
+- 🍎 **On-device ML for macOS** - Whisper transcription and AI-quota tracking that never leave your Mac
 - 📚 **Teaching** - Programming instructor at Nuts IT Academy
 
 ---
@@ -42,9 +42,10 @@
 
 | Project | What it is |
 |---|---|
-| [moondream2-factory-vision](https://github.com/livejiaquan/moondream2-factory-vision) | Feasibility experiments using a compact VLM (Moondream2) for industrial safety scenarios, fully local inference |
-| [2025EAI_Project](https://github.com/livejiaquan/2025EAI_Project) | CIFAR-10 model compression — 90% of channels pruned with 90.56% accuracy retained |
-| [Claro](https://github.com/livejiaquan/Claro) | Privacy-first macOS dictation: mlx-whisper + local LLM polishing for mixed zh/en writing |
+| [tracebrief](https://github.com/livejiaquan/tracebrief) | Finds forklift near-misses in warehouse CCTV, verifies each with a local VLM (Qwen2-VL-2B), exports an evidence-linked report; YOLOX-tiny at 98.1% pair precision, built for ASUS UGen300 (Hailo-10H) |
+| [quotapus](https://github.com/livejiaquan/quotapus) | macOS menu-bar app tracking AI coding limits across 11 providers (Claude, Codex, Cursor, …), including usage on your other machines over SSH |
+| [openleaf](https://github.com/livejiaquan/openleaf) | Self-hosted, offline LaTeX editor: XeLaTeX, biber, CJK, SyncTeX jump, history snapshots |
+| [image-similarity-detector](https://github.com/livejiaquan/image-similarity-detector) | Audits image datasets before training: duplicates, near-duplicates and leakage across train/val/test splits, with CI |
 | [mlx-whisper-studio](https://github.com/livejiaquan/mlx-whisper-studio) | Desktop GUI for on-device audio/video transcription on Apple Silicon |
 | [Boxing-Action-Recognition](https://github.com/livejiaquan/Boxing-Action-Recognition) | Real-time boxing action recognition with YOLO11-pose, 25–30 FPS |
 | [taiwan-weather-risk-dashboard](https://github.com/livejiaquan/taiwan-weather-risk-dashboard) | Live county-level weather risk dashboard on official CWA open data ([live](https://livejiaquan.github.io/taiwan-weather-risk-dashboard/)) |
